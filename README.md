@@ -1,4 +1,4 @@
 # Project-Euler
-This are my answers in Project Euler Activity
+These are my answers for Project Euler Problem sets
 
 
